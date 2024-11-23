@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Aerospace Propulsion Engineering at Moscow Aviation Institute
 <!--
 **yocohamayo/yocohamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
