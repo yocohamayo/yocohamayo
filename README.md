@@ -1,8 +1,7 @@
 <h2 align="center">
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
-  Hello,there!
-  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
-</h2>
+  Hi,there!
+
 
 <h2 align="center">
     I'm
@@ -11,7 +10,8 @@
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -31,7 +31,9 @@ I am an undergraduate Aerospace/Mechanical engineering student focused on aircra
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music,🌴 explore nature outdoors and play many sports like basketball, volleyball, badminton.
-- 📫 Reach out to me at: <a href="rivaroladiana8@gmail.com">rivaroladiana8@gmail.com</a>
-
+- 📫 Reach out to me at:
+ <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/):  </a>
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rivarola_miranda?igsh=NHBtbDd1Z3ZreDBi)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rivaroladiana@gmail.com)
 
 
