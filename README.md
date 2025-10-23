@@ -16,12 +16,12 @@ I am an undergraduate Aerospace/Mechanical engineering student focused on aircra
 - Stress, Fatigue & Lifing: thermo‑mechanical analysis,creep.
 - Rotor Dynamics & Vibrations: balancing,resonance margins.
 - Systems Integration & Safety: mounts, tolerances, gearbox alignment
- Tools I use 🧰
-CFD: ANSYS Fluent/CFX, FEM: ANSYS Mechanical
-Programming: Python/MATLAB for optimization and post‑processing.
+-  Tools I use 🧰
+-  CFD: ANSYS Fluent/CFX, FEM: ANSYS Mechanical.
+-  Programming: Python/MATLAB for optimization and post‑processing.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music,🌴 explore nature outdoors and play many sports like basketball, volleyball, badminton.
 - 📫 Reach out to me at: <a href="rivaroladiana8@gmail.com">rivaroladiana8@gmail.com</a>
 
 
