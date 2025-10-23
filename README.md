@@ -13,11 +13,11 @@ I am an undergraduate Aerospace/Mechanical engineering student focused on aircra
 - Thermodynamics & Propulsion Cycles:Brayton ideal,energy balances, thermal propulsive
 - Internal Aerodynamics: blade and nozzle design, secondary losses, compressor and turbine maps and matching.
 - Heat Transfer & Cooling: forced convection, conjugate HT, transpiration cooling of turbine blades.
-- Stress, Fatigue & Lifing: thermo‑mechanical analysis, LCF/HCF life, creep.
-- Rotor Dynamics & Vibrations: balancing, FEM modal analysis, resonance margins.
-- Systems Integration & Safety: mounts, tolerances, gearbox alignment, ARP4754A/ARP4761.
+- Stress, Fatigue & Lifing: thermo‑mechanical analysis,creep.
+- Rotor Dynamics & Vibrations: balancing,resonance margins.
+- Systems Integration & Safety: mounts, tolerances, gearbox alignment
  Tools I use 🧰
-CFD: ANSYS Fluent/CFX, Star‑CCM+. FEM: ANSYS Mechanical
+CFD: ANSYS Fluent/CFX, FEM: ANSYS Mechanical
 Programming: Python/MATLAB for optimization and post‑processing.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
