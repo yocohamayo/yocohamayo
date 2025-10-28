@@ -32,7 +32,7 @@ I am an undergraduate Aerospace/Mechanical engineering student focused on aircra
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music,🌴 explore nature outdoors and play many sports like basketball, volleyball, badminton.
 - 📫 Reach out to me at:
- <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/):  </a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1109262681514455092)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rivarola_miranda?igsh=NHBtbDd1Z3ZreDBi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rivaroladiana@gmail.com)
 
